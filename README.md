@@ -18,7 +18,7 @@ This script provides a one-click solution to:
 
 ## Requirements
 
-*   **DaVinci Resolve (Studio or Free):** Version 17 or later is recommended (though it may work on earlier versions that support the Resolve API).
+*   **DaVinci Resolve (Studio / Maybe works on Free? I haven't tried that):** Version 17 or later is recommended (though it may work on earlier versions that support the Resolve API).
 *   **Python 3.6 or later:**  The script is written in Python and requires a compatible interpreter.  No external Python libraries are needed; it relies solely on the Resolve API.
 *  **DaVinci Resolve Scripting API Access:** Ensure that Resolve's scripting API is enabled. This is usually enabled by default, but double-check in Resolve's preferences if you encounter issues.  (Preferences -> System -> General -> External Scripting Using -> Local/Network)
 
