@@ -13,7 +13,7 @@ This script provides a one-click solution to:
 1.  **Consolidate Clip Markers to Timeline Markers:**  All clip markers on selected clips are extracted and converted into timeline markers.
 2.  **Rename and Number:** The timeline markers are sequentially numbered and renamed in the format:  `[Number] - [Original Timestamp]`.  For example: `1 - 00:00:00`, `2 - 00:15:32`, etc.
 3.  **Remove Redundant Clip Markers:** All original clip markers from *all* clips on the timeline are deleted, leaving only the clean timeline markers.
-4. Transfer to Video Track:** The script will take the timeline markers and add them back to the first video track as clip markers.
+4.  **Transfer to Video Track:** The script will take the timeline markers and add them back to the first video track as clip markers.
 
 ## Requirements
 
